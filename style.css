@@ -1,0 +1,36 @@
+table, th, td {
+
+   border: .5px solid lightcoral;
+}
+h1 {
+  text-align: center;
+}
+td {
+  width: 100px;
+  height: 100px;
+}
+table {
+  margin: 10px auto;
+}
+.vert {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+.hori {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+h1 {
+  text-align: center;
+}
+
+body{ color: orange}
+body{font-family: 'Merriweather', serif;} 
+h3{ color: lightblue}
+
+h3 {
+  text-align: center;
+}
+body {
+  background-color: F5F5F5;
+}
